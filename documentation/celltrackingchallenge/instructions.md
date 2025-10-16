@@ -90,3 +90,5 @@ nnUNet_train 3d_fullres nnUNetTrainerV2 76 all
 You can use the images in `imagesTs` but honestly just use the code we provide for inference 
 [here](http://celltrackingchallenge.net/participants/DKFZ-GE/). If you choose to run inference all by yourself, 
 remember to specify the 'all' fold correctly (`nnUNet_predict [...] -f all`).
+
+<!-- Auto-update: 2025-10-16T13:41:00.905129 -->
